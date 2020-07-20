@@ -1,6 +1,6 @@
 @font-face {
     font-family: '2005_iannnnnAMD';
-    src: url(assets/font/2005_iannnnnAMD) format("truetype");
+    src: url("/assets/font/2005_iannnnnAMD.ttf") format("truetype");
 }
 
 body {
