@@ -21,5 +21,10 @@ body {
 
 .header-text {
     margin-top: 15em;
+    margin-bottom: 1em;
     color: white;
+}
+
+a {
+    margin-bottom: 5% !important;
 }
